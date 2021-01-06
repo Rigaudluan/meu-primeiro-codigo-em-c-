@@ -1,0 +1,16 @@
+C:\workspace\pontonet\praticaex\pratica\bin\Debug\net5.0\pratica.exe
+C:\workspace\pontonet\praticaex\pratica\bin\Debug\net5.0\pratica.deps.json
+C:\workspace\pontonet\praticaex\pratica\bin\Debug\net5.0\pratica.runtimeconfig.json
+C:\workspace\pontonet\praticaex\pratica\bin\Debug\net5.0\pratica.runtimeconfig.dev.json
+C:\workspace\pontonet\praticaex\pratica\bin\Debug\net5.0\pratica.dll
+C:\workspace\pontonet\praticaex\pratica\bin\Debug\net5.0\ref\pratica.dll
+C:\workspace\pontonet\praticaex\pratica\bin\Debug\net5.0\pratica.pdb
+C:\workspace\pontonet\praticaex\pratica\obj\Debug\net5.0\pratica.csprojAssemblyReference.cache
+C:\workspace\pontonet\praticaex\pratica\obj\Debug\net5.0\pratica.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\pontonet\praticaex\pratica\obj\Debug\net5.0\pratica.AssemblyInfoInputs.cache
+C:\workspace\pontonet\praticaex\pratica\obj\Debug\net5.0\pratica.AssemblyInfo.cs
+C:\workspace\pontonet\praticaex\pratica\obj\Debug\net5.0\pratica.csproj.CoreCompileInputs.cache
+C:\workspace\pontonet\praticaex\pratica\obj\Debug\net5.0\pratica.dll
+C:\workspace\pontonet\praticaex\pratica\obj\Debug\net5.0\ref\pratica.dll
+C:\workspace\pontonet\praticaex\pratica\obj\Debug\net5.0\pratica.pdb
+C:\workspace\pontonet\praticaex\pratica\obj\Debug\net5.0\pratica.genruntimeconfig.cache
